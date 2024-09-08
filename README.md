@@ -18,12 +18,12 @@
   <h1><strong> &#x2193 </strong></h1>
   <br/>
   <a href="https://mail.google.com/mail/?view=cm&to=ahmedumersiddiqui18@gmail.com&su=Your%20Subject&body=Your%20Message">
-    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" style="width:150px; height:auto; margin:10px; border-radius:5px;" />
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" style="width:120px; height:40px; margin:10px; border-radius:5px;" />
 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmedumersiddiqui/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" style="width:120px; height:40px; margin:10px; border-radius:5px;"/>
   </a>
 </div>
 
