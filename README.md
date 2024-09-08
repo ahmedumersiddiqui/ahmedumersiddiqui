@@ -14,12 +14,12 @@
 <div align="center">
   <h3>Reach me at</h3>
   <a href="https://mail.google.com/mail/?view=cm&to=ahmedumersiddiqui18@gmail.com&su=Your%20Subject&body=Your%20Message">
-    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" style="width:70px; height:40px; margin:10px; border-radius:5px;" />
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" style="width:60px; height:40px; margin:10px; border-radius:5px;" />
 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmedumersiddiqui/" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" style="width:40px; height:40px; margin:10px; border-radius:5px;"/>
+    <img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" style="width:20px; height:40px; margin:10px; border-radius:5px;"/>
   </a>
 </div>
 
