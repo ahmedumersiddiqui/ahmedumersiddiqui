@@ -8,15 +8,14 @@
 <br/>
 
 <div align="center">
-  <strong>🔭 Skills:</strong> Python | JavaScript | AI
+  <strong></strong> Python | JavaScript | AI
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📫 How to reach me:</h3>
+  <h3>Reach me at</h3>
   <h1><strong> &#x2193 </strong></h1>
-  <br/>
   <a href="https://mail.google.com/mail/?view=cm&to=ahmedumersiddiqui18@gmail.com&su=Your%20Subject&body=Your%20Message">
     <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" style="width:90px; height:40px; margin:10px; border-radius:5px;" />
 
