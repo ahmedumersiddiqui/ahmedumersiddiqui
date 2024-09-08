@@ -18,7 +18,7 @@
   <h1><strong> &#x2193 </strong></h1>
   <br/>
   <a href="https://mail.google.com/mail/?view=cm&to=ahmedumersiddiqui18@gmail.com&su=Your%20Subject&body=Your%20Message">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmedumersiddiqui/" target="_blank">
